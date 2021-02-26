@@ -76,6 +76,3 @@ main([Pattern]) ->
     Clerk = spawn_clerk(),
     spawn_drone(Pattern, "/", Clerk),
     io:format("\nsearching for \x1B[34m`~s`\x1B[0m pattern . . . \n", [Pattern]).
-
-
-% erlc probe.erl; erl -noshell -run probe main discord
