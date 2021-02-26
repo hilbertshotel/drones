@@ -1,5 +1,0 @@
-put three identical files in three remote locations (preferably random)
-write down their exact locations
-let loose the drones
-
-compare search results with locations
